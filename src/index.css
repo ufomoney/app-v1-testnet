@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(90deg, #007ED8 0%, rgba(28, 167, 219, 0.92) 100%);
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
